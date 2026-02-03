@@ -3,8 +3,8 @@ import ClientLayout from "@/client-layout";
 import { ViewTransitions } from "next-view-transitions";
 
 export const metadata = {
-  title: "Polite Chaos | Codegrid",
-  description: "MWT by Codegrid",
+  title: "Polite Chaos | NexifyEdge",
+  description: "MWT by NexifyEdge",
   icons: {
     icon: "/site-logo.png",
     shortcut: "/site-logo.png",

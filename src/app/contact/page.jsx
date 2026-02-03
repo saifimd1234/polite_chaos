@@ -229,7 +229,7 @@ const Page = () => {
           <div className="contact-group">
             <Copy delay={1.4}>
               <p className="sm">Credits</p>
-              <p>Created by Codegrid</p>
+              <p>Created by NexifyEdge</p>
               <p>Edition 2025</p>
             </Copy>
           </div>
@@ -246,7 +246,7 @@ const Page = () => {
             <Copy delay={1.7} animateOnScroll={false}>
               <a
                 className="sm"
-                href="https://www.instagram.com/codegridweb/"
+                href="https://www.instagram.com/NexifyEdgeweb/"
                 target="_blank"
               >
                 Instagram
@@ -256,7 +256,7 @@ const Page = () => {
             <Copy delay={1.8} animateOnScroll={false}>
               <a
                 className="sm"
-                href="https://www.youtube.com/@codegrid"
+                href="https://www.youtube.com/@NexifyEdge"
                 target="_blank"
               >
                 YouTube
@@ -266,7 +266,7 @@ const Page = () => {
             <Copy delay={1.9} animateOnScroll={false}>
               <a
                 className="sm"
-                href="https://x.com/codegridweb"
+                href="https://x.com/NexifyEdgeweb"
                 target="_blank"
               >
                 Twitter
